@@ -81,9 +81,28 @@ Selecionar o ativo criado e avançar:
 ![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/61fb089b-0abc-48ec-8fb1-4f573f8b26e0)
 
 
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/faf94aef-93de-474e-a5b9-848816e1183c)
+
+
 Clicar no botão de engrenagem: "Exibir definições de configurações adicionais" que irá abrir um menu na direita.
 Atenção para fazer a seleções conforme imagem abaixo:
 
 ![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/10e9805c-28be-46ac-9244-11fc30bf92bd)
+
+Clicar para definir os limites:
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/2537da72-a814-42c2-91fb-9b54107a3883)
+
+Definir os detalhes da computação (pode aceitar as sugestões conforme abaixo):
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/7cfc6d33-e994-438e-a276-51ddb533a56c)
+
+Clicar em enviar o treinamento:
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/b38bb17d-579d-4ca8-b979-e48af1ca65d1)
+
+Aguardar alguns minutos para o trabalho ser executado.
+
+
 
 
