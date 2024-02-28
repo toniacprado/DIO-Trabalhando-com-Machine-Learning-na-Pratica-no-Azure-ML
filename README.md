@@ -101,7 +101,35 @@ Clicar em enviar o treinamento:
 
 ![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/b38bb17d-579d-4ca8-b979-e48af1ca65d1)
 
+
 Aguardar alguns minutos para o trabalho ser executado.
+
+## Revisando o melhor modelo
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/7c5c057c-172f-41a3-afc7-2518fe6e65ca)
+
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/1e10dd93-a6ac-4c8a-b35b-26c340fe0272)
+
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/ec89003b-b7d5-4b64-adbd-f1d476e767ac)
+
+No nome do melhor algoritimo selecionar métricas:
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/ab7d2ddf-35eb-43be-a01f-026185d6a2ad)
+
+## Deploy (implantar) e Testar o modelo:
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/8ba515dc-6f44-4a83-8e45-02362978d9c0)
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/e6236c8c-4930-473c-ae5c-380da8786458)
+
+Aguardar. A implantação pode demorar de 5 - 10 minutos.
+
+
+
+
+
 
 
 
