@@ -37,3 +37,53 @@ Então uma sequencia de passos é necessária:
 ![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/38781a9a-1c7e-45fd-ae2b-9a97566da28a)
 
 ![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/7a5fad22-4981-47dd-8655-71a881d01c7a)
+
+4o. Acessar o Ai Studio
+4.1 depois de criado o recurso pode diretamente clicar no botão launch studio:
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/70757851-0bd7-486f-a8f9-0e686a203d51)
+
+OU acessar a url : https://ml.azure.com
+
+## 5o. Usar o ML automatizado para treinar um modelo
+
+5.1 Selecionar o menu de ML Automatizado:
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/42ec1865-82f0-42c0-b1f0-6e424103bb99)
+
+Clicar no botão "+ Novo trabalho de ML Automatizado"
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/631b80c3-af31-4320-8cd1-429a304c3885)
+
+Criar o ativo de dados:
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/791b15f9-1ee1-4f41-a900-79a6b035fbce)
+
+A fonte de dados selecionar arquivos da web e usar a url https://aka.ms/bike-rentals
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/87f15d5d-da5a-43e9-8bd2-88de4b4e374c)
+
+Nas configurações atenção para selecionar "somente o primeiro arquivo tem cabeçalhos"
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/9defd680-9221-47ea-95b8-d48544bcebd0)
+
+No "Esquema" deixar como a sugestão de todos selecionados menos o "Path"
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/a69e5429-3464-4e69-9563-d4dc3bfc1327)
+
+Conferir os tipos de dados sugeridos (todos inteiros) e clicar em criar:
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/885b8ea2-9b66-4078-8c39-c0c9b4185e22)
+
+
+Selecionar o ativo criado e avançar:
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/61fb089b-0abc-48ec-8fb1-4f573f8b26e0)
+
+
+Clicar no botão de engrenagem: "Exibir definições de configurações adicionais" que irá abrir um menu na direita.
+Atenção para fazer a seleções conforme imagem abaixo:
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/10e9805c-28be-46ac-9244-11fc30bf92bd)
+
+
