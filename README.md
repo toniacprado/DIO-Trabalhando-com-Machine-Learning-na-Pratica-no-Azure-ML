@@ -127,6 +127,30 @@ No nome do melhor algoritimo selecionar métricas:
 Aguardar. A implantação pode demorar de 5 - 10 minutos.
 
 
+## Testando o modelo:
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/f606d7a8-d101-4f96-bcb7-15086f834c1e)
+
+![image](https://github.com/toniacprado/DIO-Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML/assets/105946569/4980e742-786e-4b99-a68d-466c538804d7)
+
+## Anexei neste repositório o arquivo .Json conforme instruído no desafio.
+
+
+---
+
+O passo a passo foi seguindo as instruções do Bootcamp e também do link:
+
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
+
+---
+
+Como boas práticas de trabalho no Azure é sugerido apagar os endpoints e se não for trabalhar mais com este modelo apagar também os recursos para evitar cobranças desnecessárias em sua conta.
+
+Atts,
+
+Toni A C Prado
+
+
 
 
 
